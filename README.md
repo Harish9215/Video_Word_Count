@@ -16,9 +16,9 @@ A **Streamlit** app that allows users to extract **transcripts** from YouTube vi
 
 2.	Install dependencies:
     ``` bash
-    pip install streamlit youtube-transcript-api
+    pip install streamlit 
 
-    pip install streamlit youtube-transcript-api
+    pip install youtube-transcript-api
 
 3. Run the App:
     ```bash
