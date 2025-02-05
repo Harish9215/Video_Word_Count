@@ -36,9 +36,4 @@ This project is open-source and free to use.
 💡 Contributions Welcome! If you’d like to improve this project, feel free to fork and submit a pull request. 🚀
 ---
 
-### **3️⃣ Add & Commit the README File**
-Now, add the file to Git and push it to GitHub:
-```bash
-git add README.md
-git commit -m "Added README file"
-git push origin main
+
