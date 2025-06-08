@@ -79,7 +79,7 @@ Clone the repository, set up a virtual environment, and install the required Pyt
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/youtube-transcript-app.git
+git clone https://github.com/yourusername/Video_Word_Count.git
 cd youtube-transcript-app
 
 # 2. Create and activate a virtual environment
