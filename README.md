@@ -1,19 +1,6 @@
 
 # 🎙️ YouTube Transcript Generator (No Subtitles Needed)
 
-\<p align="center"\>
-\<img src="[suspicious link removed]" alt="App Demo GIF" width="800"/\>
-\</p\>
-
-\<p align="center"\>
-\<a href="\#-features"\>Features\</a\> •
-\<a href="\#-how-it-works"\>How It Works\</a\> •
-\<a href="\#-installation"\>Installation\</a\> •
-\<a href="\#-usage"\>Usage\</a\> •
-\<a href="\#-powered-by"\>Powered By\</a\> •
-\<a href="\#-license"\>License\</a\>
-\</p\>
-
 A Streamlit-based web app that generates a full transcript from **any YouTube video**, even if it doesn't have built-in subtitles. This tool uses OpenAI's Whisper for state-of-the-art speech recognition and `yt-dlp` for efficient audio extraction.
 
 -----
