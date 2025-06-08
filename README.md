@@ -123,3 +123,10 @@ This project is built with several incredible open-source tools:
 ## 📃 License
 
 This project is licensed under the **MIT License**. Feel free to use, modify, and distribute it as you see fit. See the `LICENSE` file for more details.
+
+## ✨ Author
+
+Made with ❤️ by [Harish Mohan](https://www.google.com/search?q=https://github.com/Harish9215)
+
+```
+```
